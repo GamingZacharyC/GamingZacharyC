@@ -10,9 +10,4 @@ If you want a description of what Aetherium is, take a look at [the Aetherium we
 To compile Minecraft mods yourself:
 
 * download the code
-* run the correct command:
-** Windows
-*** cd Drive:\Path\To\Downloaded\Code
-*** gradlew runClient
-** Windows (Combined)
-***cd Drive:\Path\To\Downloaded\Code && gradlew runClient
+* run the Wibndows commands: cd Drive:\Path\To\Downloaded\Code && gradlew runClient
