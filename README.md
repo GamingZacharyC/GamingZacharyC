@@ -1,7 +1,20 @@
 # Inteo to Me
-Hello! I am GamingZacharyC, a programmer that mostly focuses on Minecraft modding. In my spare time, I play plenty of video games, watch all too much YouTube, and make open-source code projects.
+Hello! I am GamingZacharyC, a programmer-by-hobby that mostly focuses on Minecraft modding. In my spare time, I play plenty of video games, watch all too much YouTube, and make not-useless open-source code projects.
 
-## Just some random facts
-* My current project is Aetherium ([GamingZacharyC\Aetherium](https://github.com/GamingZacharyC/Aetherium)), a mod for Minecraft inspired by Thaumcraft (but quite a bit different, not a copy of [Arcana]()) that will be fully released _at least_ sometime during the 1.18 update cycle (i.e. late in 1.17's lifetime). This is not a release date, and I expect to go over this by a long shot. You have been warned. If you want a description of what Aetherium is, take a look at [the Aetherium website](https://gamingzacharyc.github.io/Aetherium). To download any stable development builds, look no further than GitHub Releases. As for unofficial, in-dev builds, [compile the code yourself](https://mcforge.readthedocs.io/en/latest/gettingstarted/#building-and-testing-your-mod:~:text=To%20build%20your%20mod%2C%20run%20gradlew,the%20Minecraft%20server%20with%20its%20GUI.).
+Some random stuff about me:
 * I love to manage Discord servers, weirdly.
 * Giving tech support is oddly satisfying to me.
+* I am a huge supporter and advocate for Dark Mode. I urge you to check out [Dark Reader](https://github.com/darkreader/darkreader!
+* Windows is my perfered platform because of the developer friendliness.
+* [Logitech G](https://logitechg.com/) for the win!
+* I'm somewhat a security freak. SECURE IT ALL.
+
+# Current Projects
+* My current large project is Aetherium ([GamingZacharyC\Aetherium](https://github.com/GamingZacharyC/Aetherium)), a mod for Minecraft inspired by Thaumcraft (but quite a bit different, not a copy of [Arcana]()) with a release *nowhere near*. See [the Aetherium website](https://gamingzacharyc.github.io/Aetherium). To download any stable development builds, look no further than GitHub Releases. As for unofficial, in-dev builds, [compile the code yourself](https://mcforge.readthedocs.io/en/latest/gettingstarted/#building-and-testing-your-mod:~:text=To%20build%20your%20mod%2C%20run%20gradlew,the%20Minecraft%20server%20with%20its%20GUI.).
+* * Completion level: Not a Clue
+
+## Under the Radar Projects
+* Livin' Half - Minecraft Datapack
+* * Completion Level: 99.9%
+* To-Be-Announced - Minecraft Datapack
+* * Completion Level: ~80%
