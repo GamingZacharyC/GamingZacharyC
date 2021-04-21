@@ -2,7 +2,7 @@
 Hello! I am GamingZacharyC, a programmer-by-hobby that mostly focuses on Minecraft modding. In my spare time, I play plenty of video games, watch all too much YouTube, and make not-useless open-source code projects.
 
 Some random stuff about me:
-* I am a huge supporter and advocate for Dark Mode. I urge you to check out [Dark Reader](https://github.com/darkreader/darkreader!
+* I am a huge supporter and advocate for Dark Mode. I urge you to check out [Dark Reader](https://github.com/darkreader/darkreader)!
 * Windows is my perfered platform because of the developer friendliness.
 * [Logitech G](https://logitechg.com/) for the win!
 * Giving tech support is oddly satisfying to me.
