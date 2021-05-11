@@ -17,4 +17,4 @@ Some random stuff about me:
 * Livin' Half - Minecraft Datapack
   * Completion Level: 99.9%
 * To-Be-Announced - Minecraft Datapack
-  * Completion Level: ~80%
+  * Completion Level: 99.9%
