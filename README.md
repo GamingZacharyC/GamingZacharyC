@@ -16,5 +16,7 @@ Some random stuff about me:
 ## Under the Radar Projects
 * Livin' Half - Minecraft Datapack
   * Completion Level: 99.9%
+  * Tasks: Finish startup tellraw
 * To-Be-Announced - Minecraft Datapack
   * Completion Level: 99.9%
+  * Tasks: Finish startup tellraw
