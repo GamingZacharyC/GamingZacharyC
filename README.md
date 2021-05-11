@@ -10,7 +10,7 @@ Some random stuff about me:
 * I love to manage Discord servers, weirdly.
 
 # Current Projects
-* My current large project is Aetherium ([GamingZacharyC\Aetherium](https://github.com/GamingZacharyC/Aetherium)), a mod for Minecraft inspired by Thaumcraft (but quite a bit different, not a copy of [Arcana]()) with a release *nowhere near*. See [the Aetherium website](https://gamingzacharyc.github.io/Aetherium). To download any stable development builds, look no further than GitHub Releases. As for unofficial, in-dev builds, [compile the code yourself](https://mcforge.readthedocs.io/en/latest/gettingstarted/#building-and-testing-your-mod:~:text=To%20build%20your%20mod%2C%20run%20gradlew,the%20Minecraft%20server%20with%20its%20GUI.).
+* Aetherium ([GamingZacharyC\Aetherium](https://github.com/GamingZacharyC/Aetherium)), my current large project, is a mod for Minecraft inspired by Thaumcraft (but quite a bit different, not a copy of [Arcana]()) with a release *nowhere near*. See [the Aetherium website](https://gamingzacharyc.github.io/Aetherium). To download any stable development builds, look no further than GitHub Releases. As for unofficial, in-dev builds, [compile the code yourself](https://mcforge.readthedocs.io/en/latest/gettingstarted/#building-and-testing-your-mod:~:text=To%20build%20your%20mod%2C%20run%20gradlew,the%20Minecraft%20server%20with%20its%20GUI.).
   * Completion level: Not a Clue
 
 ## Under the Radar Projects
